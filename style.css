@@ -18,6 +18,9 @@ h1 {
     font-size: 3.5em;
 }
 
+h1 span {
+    margin: 0 30px;
+}
 
 button{
     font-size: 60px;
